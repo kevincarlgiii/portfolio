@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.93ec17b0.css",
+    "main.js": "/portfolio/static/js/main.652122ba.js",
+    "static/media/remixicon.svg?t=1718271040674": "/portfolio/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/portfolio-01.jpg": "/portfolio/static/media/portfolio-01.f6dd8b673ecc365e39c0.jpg",
+    "static/media/portfolio-02.jpg": "/portfolio/static/media/portfolio-02.bf7c9ef1a031ef2dbf7d.jpg",
+    "static/media/kevin.png": "/portfolio/static/media/kevin.38f7bfe63562a9e302e5.png",
+    "static/media/remixicon.eot?t=1718271040674": "/portfolio/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/portfolio/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/portfolio/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/portfolio-03.jpg": "/portfolio/static/media/portfolio-03.7e51d9d8fbe739866e5c.jpg",
+    "static/media/remixicon.woff2?t=1718271040674": "/portfolio/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.93ec17b0.css.map": "/portfolio/static/css/main.93ec17b0.css.map",
+    "main.652122ba.js.map": "/portfolio/static/js/main.652122ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93ec17b0.css",
+    "static/js/main.652122ba.js"
+  ]
+}
